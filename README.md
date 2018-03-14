@@ -6,6 +6,7 @@ Map &amp; Reduce en Python/dumbo
 ###########################################################################################################################
 #Author: Sergio Arriaga
 #Version: v1
+
 #Dataset1: contiene las provincias que componen cada comunidad autónoma
 # http://www.campusbigdata.com/tareas/m7_tareas/Comunidades_y_provincias.csv
 #Dataset2: Contiene el número de contratos desglosados por provincia, municipio y sexo a lo largo de 2016
